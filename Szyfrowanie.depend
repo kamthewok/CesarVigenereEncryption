@@ -1,0 +1,217 @@
+# depslib dependency file v1.0
+1557680010 source:d:\cb_programs\szyfrrrrrrrrrrrrrr\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Vigenere_szyfrowanie.h"
+	"Vigenere_deszyfrowanie.h"
+
+1557666426 d:\cb_programs\szyfrrrrrrrrrrrrrr\vinegnere_szyfr.h
+
+1557667478 source:d:\cb_programs\szyfrrrrrrrrrrrrrr\vinegnere_szyfr.c
+	"Vigenere_szyfr.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1557666426 d:\cb_programs\szyfrrrrrrrrrrrrrr\vigenere_szyfr.h
+
+1557679003 d:\cb_programs\szyfrrrrrrrrrrrrrr\vigenere_szyfrowanie.h
+
+1557681739 source:d:\cb_programs\szyfrrrrrrrrrrrrrr\vigenere_szyfrowanie.c
+	"Vigenere_szyfrowanie.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1557679960 d:\cb_programs\szyfrrrrrrrrrrrrrr\vigenere_deszyfrowanie.h
+
+1558099466 source:d:\cb_programs\szyfrrrrrrrrrrrrrr\vigenere_deszyfrowanie.c
+	"Vigenere_deszyfrowanie.h"
+	<stdio.h>
+	<math.h>
+
+1558178816 source:c:\users\micha許desktop\szyfrrrrrrrrrrrrrr\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Vigenere_szyfrowanie.h"
+	"Vigenere_deszyfrowanie.h"
+	"Cezar_szyfrowanie.h"
+	"Cezar_deszyfrowanie.h"
+
+1557679003 c:\users\micha許desktop\szyfrrrrrrrrrrrrrr\vigenere_szyfrowanie.h
+
+1557679960 c:\users\micha許desktop\szyfrrrrrrrrrrrrrr\vigenere_deszyfrowanie.h
+
+1558099466 source:c:\users\micha許desktop\szyfrrrrrrrrrrrrrr\vigenere_deszyfrowanie.c
+	"Vigenere_deszyfrowanie.h"
+	<stdio.h>
+	<math.h>
+
+1557681739 source:c:\users\micha許desktop\szyfrrrrrrrrrrrrrr\vigenere_szyfrowanie.c
+	"Vigenere_szyfrowanie.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1558175153 c:\users\micha許desktop\szyfrrrrrrrrrrrrrr\cezar_szyfrowanie.h
+
+1558178782 source:c:\users\micha許desktop\szyfrrrrrrrrrrrrrr\cezar_szyfrowanie.c
+	<stdio.h>
+	<stdlib.h>
+	"Cezar_szyfrowanie.h"
+
+1558178838 source:c:\users\micha許desktop\szyfrrrrrrrrrrrrrr\cezar_deszyfrowanie.c
+	<stdio.h>
+	<stdlib.h>
+	"Cezar_deszyfrowanie.h"
+
+1558177410 c:\users\micha許desktop\szyfrrrrrrrrrrrrrr\cezar_deszyfrowanie.h
+
+1558178840 source:f:\szyfrrrrrrrrrrrrrr\cezar_deszyfrowanie.c
+	<stdio.h>
+	<stdlib.h>
+	"Cezar_deszyfrowanie.h"
+
+1558177412 f:\szyfrrrrrrrrrrrrrr\cezar_deszyfrowanie.h
+
+1558178784 source:f:\szyfrrrrrrrrrrrrrr\cezar_szyfrowanie.c
+	<stdio.h>
+	<stdlib.h>
+	"Cezar_szyfrowanie.h"
+
+1558175154 f:\szyfrrrrrrrrrrrrrr\cezar_szyfrowanie.h
+
+1558178818 source:f:\szyfrrrrrrrrrrrrrr\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Vigenere_szyfrowanie.h"
+	"Vigenere_deszyfrowanie.h"
+	"Cezar_szyfrowanie.h"
+	"Cezar_deszyfrowanie.h"
+
+1557679004 f:\szyfrrrrrrrrrrrrrr\vigenere_szyfrowanie.h
+
+1557679962 f:\szyfrrrrrrrrrrrrrr\vigenere_deszyfrowanie.h
+
+1558099468 source:f:\szyfrrrrrrrrrrrrrr\vigenere_deszyfrowanie.c
+	"Vigenere_deszyfrowanie.h"
+	<stdio.h>
+	<math.h>
+
+1558514422 source:f:\szyfrrrrrrrrrrrrrr\vigenere_szyfrowanie.c
+	"Vigenere_szyfrowanie.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1559403066 source:c:\users\kamil\desktop\szyfrrrrrrrrrrrrrr\cezar_deszyfrowanie.c
+	<stdio.h>
+	<stdlib.h>
+	"Cezar_deszyfrowanie.h"
+
+1558177412 c:\users\kamil\desktop\szyfrrrrrrrrrrrrrr\cezar_deszyfrowanie.h
+
+1559403144 source:c:\users\kamil\desktop\szyfrrrrrrrrrrrrrr\cezar_szyfrowanie.c
+	<stdio.h>
+	<stdlib.h>
+	"Cezar_szyfrowanie.h"
+
+1558175154 c:\users\kamil\desktop\szyfrrrrrrrrrrrrrr\cezar_szyfrowanie.h
+
+1559403605 source:c:\users\kamil\desktop\szyfrrrrrrrrrrrrrr\vigenere_deszyfrowanie.c
+	"Vigenere_deszyfrowanie.h"
+	<stdio.h>
+	<math.h>
+
+1557679962 c:\users\kamil\desktop\szyfrrrrrrrrrrrrrr\vigenere_deszyfrowanie.h
+
+1559407439 source:c:\users\kamil\desktop\szyfrrrrrrrrrrrrrr\vigenere_szyfrowanie.c
+	"Vigenere_szyfrowanie.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1557679004 c:\users\kamil\desktop\szyfrrrrrrrrrrrrrr\vigenere_szyfrowanie.h
+
+1559404297 source:c:\users\kamil\desktop\szyfrrrrrrrrrrrrrr\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Vigenere_szyfrowanie.h"
+	"Vigenere_deszyfrowanie.h"
+	"Cezar_szyfrowanie.h"
+	"Cezar_deszyfrowanie.h"
+
+1559403066 source:c:\users\kamil\desktop\test\cezar_deszyfrowanie.c
+	<stdio.h>
+	<stdlib.h>
+	"Cezar_deszyfrowanie.h"
+
+1558177412 c:\users\kamil\desktop\test\cezar_deszyfrowanie.h
+
+1559403144 source:c:\users\kamil\desktop\test\cezar_szyfrowanie.c
+	<stdio.h>
+	<stdlib.h>
+	"Cezar_szyfrowanie.h"
+
+1558175154 c:\users\kamil\desktop\test\cezar_szyfrowanie.h
+
+1559404297 source:c:\users\kamil\desktop\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Vigenere_szyfrowanie.h"
+	"Vigenere_deszyfrowanie.h"
+	"Cezar_szyfrowanie.h"
+	"Cezar_deszyfrowanie.h"
+
+1557679004 c:\users\kamil\desktop\test\vigenere_szyfrowanie.h
+
+1557679962 c:\users\kamil\desktop\test\vigenere_deszyfrowanie.h
+
+1559403605 source:c:\users\kamil\desktop\test\vigenere_deszyfrowanie.c
+	"Vigenere_deszyfrowanie.h"
+	<stdio.h>
+	<math.h>
+
+1559407439 source:c:\users\kamil\desktop\test\vigenere_szyfrowanie.c
+	"Vigenere_szyfrowanie.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1559403066 source:c:\users\kamil\desktop\szyfrowanie\cezar_deszyfrowanie.c
+	<stdio.h>
+	<stdlib.h>
+	"Cezar_deszyfrowanie.h"
+
+1558177412 c:\users\kamil\desktop\szyfrowanie\cezar_deszyfrowanie.h
+
+1559403144 source:c:\users\kamil\desktop\szyfrowanie\cezar_szyfrowanie.c
+	<stdio.h>
+	<stdlib.h>
+	"Cezar_szyfrowanie.h"
+
+1558175154 c:\users\kamil\desktop\szyfrowanie\cezar_szyfrowanie.h
+
+1559403605 source:c:\users\kamil\desktop\szyfrowanie\vigenere_deszyfrowanie.c
+	"Vigenere_deszyfrowanie.h"
+	<stdio.h>
+	<math.h>
+
+1557679962 c:\users\kamil\desktop\szyfrowanie\vigenere_deszyfrowanie.h
+
+1559407439 source:c:\users\kamil\desktop\szyfrowanie\vigenere_szyfrowanie.c
+	"Vigenere_szyfrowanie.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1557679004 c:\users\kamil\desktop\szyfrowanie\vigenere_szyfrowanie.h
+
+1559408602 source:c:\users\kamil\desktop\szyfrowanie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Vigenere_szyfrowanie.h"
+	"Vigenere_deszyfrowanie.h"
+	"Cezar_szyfrowanie.h"
+	"Cezar_deszyfrowanie.h"
+
